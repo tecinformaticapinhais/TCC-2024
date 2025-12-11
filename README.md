@@ -1,4 +1,4 @@
-#Trabalhos de Conclusão de Curso (2024)
+# Trabalhos de Conclusão de Curso (2024)
 
 Trabalhos de conclusão de curso desenvolvidos pelos alunos da da turma de 2024:
 
